@@ -11,7 +11,7 @@ List of packages that are part of this project
  
 [**<i class="fa fa-github-alt"></i> Github**](https://github.com/serp-spider/core)
 
-``$ composer require serps/serps``
+``$ composer require serps/core``
 
 [<img class="frameless-image" alt="Build Status" src="https://travis-ci.org/serp-spider/core.svg?branch=master"/>](https://travis-ci.org/serp-spider/core)
 [<img class="frameless-image" alt="Test Coverage" src="https://codeclimate.com/github/serp-spider/core/badges/coverage.svg" />](https://codeclimate.com/github/serp-spider/core/coverage)
